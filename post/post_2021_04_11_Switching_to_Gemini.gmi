@@ -13,6 +13,8 @@
 
 ```
 
+#hy
+
 I've recently switched to Gemini as my site protocol instead of HTTP. Gemini is more light weight than HTTP, and it only displays text. This follows the Unix philosophy better: Browsers should download pages and display text, they shouldn't display images or videos. It should be the image viewer or the video player that does these things.
 
 I personally recommend the Gemini client Amfora, since it is terminal-based, lightweight, but colorful. It could be found in most Linux distributions' repositories.
