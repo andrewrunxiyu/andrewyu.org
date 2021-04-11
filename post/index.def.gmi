@@ -7,6 +7,4 @@
 
 ```
 
-This page contains my post list.
-
 [ POSTS ]
