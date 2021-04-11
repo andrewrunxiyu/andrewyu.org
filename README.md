@@ -7,7 +7,8 @@ ull request.
 If you are adding a post, be sure to run `python3 gen.py` in the `post`
 directory in order to generate the index. Posts should be named like the
 following, where YYYY is year, MM is month, DD is day, and the following
-text is the post title with dashes (-) in place of spaces.
+text is the post title with underscores (_) in place of spaces.
+
 ```
-YYYY-MM-DD-The-quick-brown-fox-jumps-over-the-lazy-dog.gmi
+post_YYYY_MM_DD_The_quick_brown_fox_jumps_over_the_lazy_dog.gmi
 ```

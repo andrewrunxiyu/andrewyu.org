@@ -9,7 +9,10 @@ print(ls)
 links = []
 for f in ls:
     desc = f.replace(".gmi", "")
-    desc = desc.replace("-", " ")
+    desc = desc.replace("_", " ")
+    desc = desc.split(" ")
+    print(desc)
+    desc = ' '.join(desc)
     links.append(f"=> {f} {desc}")
 yay = '\n'.join(links)
 print(yay)
