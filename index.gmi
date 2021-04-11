@@ -1,0 +1,12 @@
+```
+    _              _                    __   __     
+   / \   _ __   __| |_ __ _____      __ \ \ / /   _ 
+  / _ \ | '_ \ / _` | '__/ _ \ \ /\ / /  \ V / | | |
+ / ___ \| | | | (_| | | |  __/\ V  V /    | || |_| |
+/_/   \_\_| |_|\__,_|_|  \___| \_/\_/     |_| \__,_|
+                                                    
+```
+
+To reduce the bloat on my server, I've decided to switch to a more lightweight protocol, namely Gemini. Users who are using the HTTP portal might see this capsule slightly differently than those who use native clients such as amfora. 
+
+
