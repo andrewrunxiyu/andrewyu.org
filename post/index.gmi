@@ -7,4 +7,4 @@
 
 ```
 
-=> post_2021_04_11_Switching_to_Gemini.gmi post 2021 04 11 Switching to Gemini
+=> post_2021_04_11_Switching_to_Gemini.gmi Switching to Gemini

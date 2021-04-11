@@ -11,6 +11,7 @@ for f in ls:
     desc = f.replace(".gmi", "")
     desc = desc.replace("_", " ")
     desc = desc.split(" ")
+    desc = desc[4:]
     print(desc)
     desc = ' '.join(desc)
     links.append(f"=> {f} {desc}")
