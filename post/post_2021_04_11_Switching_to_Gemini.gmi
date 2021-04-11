@@ -1,17 +1,4 @@
-```
- ____          _ _       _     _               _
-/ ___|_      _(_) |_ ___| |__ (_)_ __   __ _  | |_ ___
-\___ \ \ /\ / / | __/ __| '_ \| | '_ \ / _` | | __/ _ \
- ___) \ V  V /| | || (__| | | | | | | | (_| | | || (_) |
-|____/ \_/\_/ |_|\__\___|_| |_|_|_| |_|\__, |  \__\___/
-                                       |___/
-  ____                _       _
- / ___| ___ _ __ ___ (_)_ __ (_)
-| |  _ / _ \ '_ ` _ \| | '_ \| |
-| |_| |  __/ | | | | | | | | | |
- \____|\___|_| |_| |_|_|_| |_|_|
-
-```
+# Switching to Gemini
 
 I've recently switched to Gemini as my site protocol instead of HTTP. Gemini is more light weight than HTTP, and it only displays text. This follows the Unix philosophy better: Browsers should download pages and display text, they shouldn't display images or videos. It should be the image viewer or the video player that does these things.
 
