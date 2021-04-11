@@ -9,5 +9,4 @@
 
 This page contains my post list.
 
-=> a-b-c.gmi a b c
-=> b-c-d.gmi b c d
+
