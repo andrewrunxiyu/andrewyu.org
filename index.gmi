@@ -8,13 +8,13 @@
 ```
 
 => post Post list
+=> https://github.com/andrewrunxiyu/andrewyu.org Code of this capsule
+=> https://andrewyu.org/bin/ File cache
+=> https://lib.andrewyu.org:4097/ File library
 
 To reduce the bloat on my server, I've decided to switch to a more lightweight protocol, namely Gemini. Users who are using the HTTP portal might see this capsule slightly differently than those who use native clients such as amfora.
 
 This capsule is still under development. You can find the source code of this capsule, my file cache and file library in the links below.
 
-=> https://github.com/andrewrunxiyu/andrewyu.org Source of this capsule
-=> https://andrewyu.org/bin/ File cache
-=> https://lib.andrewyu.org:4097/ File library
 
 I will be reading pull requests.
