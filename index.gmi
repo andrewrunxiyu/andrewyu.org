@@ -11,3 +11,5 @@
 => https://github.com/andrewrunxiyu/andrewyu.org Code of this capsule (Give me pull requests)
 => https://andrewyu.org/bin/ File cache
 => https://lib.andrewyu.org:4097/ File library
+
+I am a ordinary middle school student who likes free software. Please follow the "Post list" link to see my posts.
