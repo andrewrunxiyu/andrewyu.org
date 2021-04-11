@@ -13,6 +13,6 @@ This capsule is still under development. You can find the source code of this ca
 
 => https://github.com/andrewrunxiyu/andrewyu.org Source of this capsule
 => https://andrewyu.org/bin/ File cache
-=> https://lib.andrewyu.org:4097/
+=> https://lib.andrewyu.org:4097/ File library
 
 I will be reading pull requests.
