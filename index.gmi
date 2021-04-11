@@ -7,7 +7,7 @@
 
 ```
 
-=> posts Post list
+=> post Post list
 
 To reduce the bloat on my server, I've decided to switch to a more lightweight protocol, namely Gemini. Users who are using the HTTP portal might see this capsule slightly differently than those who use native clients such as amfora.
 
