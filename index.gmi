@@ -7,9 +7,22 @@
 
 ```
 
+I am a ordinary middle school student who likes free software. Please follow the "Post list" link to see my posts.
+
+# Site pages
+
 => post Post list
-=> https://github.com/andrewrunxiyu/andrewyu.org Code of this capsule (Give me pull requests)
 => https://andrewyu.org/bin/ File cache
 => https://lib.andrewyu.org:4097/ File library
 
-I am a ordinary middle school student who likes free software. Please follow the "Post list" link to see my posts.
+# Services
+
+=> ircs://irc.andrewyu.org/6697 Internet relay chat
+
+# About this capsule
+
+This is a Gemini capsule, a lightweight alternative to the modern web. I suggest viewing this on a Gemini client such as Amfora. However, using the HTTP portal is also viable.
+
+I will be accepting pull requests
+
+=> https://github.com/andrewrunxiyu/andrewyu.org Code of this capsule
