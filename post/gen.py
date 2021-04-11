@@ -4,6 +4,8 @@ ls = os.listdir(".")
 ls.remove("gen.py")
 ls.remove("index.def.gmi")
 ls.remove("index.gmi")
+ls.reverse()
+print(ls)
 links = []
 for f in ls:
     desc = f.replace(".gmi", "")
