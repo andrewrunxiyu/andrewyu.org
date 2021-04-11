@@ -1,118 +1,85 @@
 # Gemini Cheatsheet
 
 Gemini takes inspiration from gophermaps and from Markdown.
-The format permits richer typographic possibilities than
-the plain text of Gopher, but remains extremely easy to parse.  The
-format is line-oriented, and a satisfactory rendering can be achieved
-with a single pass of a document, processing each line independently.
 
-################################################
-Core Line Types:
-################################################
-----------------------------------------
-Text Lines
-----------------------------------------
-* Text lines are automatically wrapped to the users
-  viewport.
+The format permits richer typographic possibilities than the plain text of Gopher, but remains extremely easy to parse.  The format is line-oriented, and a satisfactory rendering can be achieved with a single pass of a document, processing each line independently.
+
+## Core Line Types
+
+### Text Lines
+
+* Text lines are automatically wrapped to the user viewport.
 
 * Short lines will not be combined into fewer longer lines.
 
 * Authors should avoid hard wrapping:
 	* Text should be written in a single long line (if you with).
 
-*  Clients may permit users to customise the appearance
-of text lines by altering the font, font size, text and
-background colour, etc.
+*  Clients may permit users to customise the appearance of text lines by altering the font, font size, text and background colour, etc.
 	* KEY WORD: "MAY" (Something to keep in mind when you format)
 
-* Blank lines have no meaning. A blank space in you DOC will
-be formatted as a blank space. Equal to <br>
+* Blank lines have no meaning. A blank space in you DOC will be formatted as a blank space. Equal to <br>
 
-* Authors who insist on hard-wrapping their content MUST be aware that
-the content will display neatly on clients whose display device is as
-wide as the hard-wrapped length or wider, but will appear with
-irregular line widths on narrower clients
+* Authors who insist on hard-wrapping their content MUST be aware that the content will display neatly on clients whose display device is as wide as the hard-wrapped length or wider, but will appear with irregular line widths on narrower clients
 
-* Authors should not expect to exercise any control over the precise rendering of
-their text lines, only of their actual textual content.
+* Authors should not expect to exercise any control over the precise rendering of their text lines, only of their actual textual content.
 
-----------------------------------------
-Link Lines:
------------------------------------------
-Lines beginning with the two characters "=>" are link lines, which
-have the following syntax:
+### Link Lines
+
+Lines beginning with the two characters "=>" are link lines, which have the following syntax:
 
 =>[<whitespace>]<URL>[<whitespace><USER-FRIENDLY LINK NAME>]<CR><LF>
 
 where:
 
-* <whitespace> is any non-zero number of consecutive spaces or
-  tabs
+* <whitespace> is any non-zero number of consecutive spaces or tabs
 
-* Square brackets indicate that the enclosed content is
-  optional.
+* Square brackets indicate that the enclosed content is optional.
 
-* <URL> is a URL, which may be absolute or relative.  If the URL does
-  not include a scheme, a scheme of gemini:// is implied.
+* <URL> is a URL, which may be absolute or relative.  If the URL does not include a scheme, a scheme of gemini:// is implied.
 
-* As per gopher, links can only be displayed one per line,
-  encouraging neat, list-like structure.
+* As per gopher, links can only be displayed one per line, encouraging neat, list-like structure.
 
-* Gemini documents can simply and elegantly link to documents
-hosted via other protocols.
+* Gemini documents can simply and elegantly link to documents hosted via other protocols.
 
 All the following examples are valid link lines:
 
 => gemini://example.org/
 => gemini://example.org/ An example link
-=> gemini://example.org/foo     Another example link at the same host
-=>gemini://example.org/bar Yet another example link at the same host
-=> foo/bar/baz.txt      A relative link
-=>      gopher://example.org:70/1 A gopher link
+=> gemini://example.org/foo Another example link at the same host
+=> gemini://example.org/bar Yet another example link at the same host
+=> foo/bar/baz.txt A relative link
+=> gopher://example.org:70/1 A gopher link
 
------------------------------------------
-Preformatted Toggle Lines (3 backticks)
------------------------------------------
+### Preformatted Text Toggle
+
 " ``` "  - Toggle preformatted mode on/off. Equal to <pre></pre>.
 
------------------------------------------
-Preformatted Text Lines
------------------------------------------
-* This is what any text written between your Toggle lines will
-look like.
+### Preformatted Text Lines
 
-* Content such as ASCII art, computer source code, etc. which may
-appear incorrectly when treated as such should be enclosed beween
-preformatting toggle lines.
+* Content such as ASCII art, computer source code, etc. which may appear incorrectly when treated as such should be enclosed beween preformatting toggle lines.
 
-* Monospace fonts automatically will be used.
+* Monospace fonts automatically will be used in most clients.
 
-###########################################################
-Advanced Line Types:
-###########################################################
-***
-These are more advanced line types that, more than likely, will
-only be recognized in more advanced (think graphical) clients.
-These will be represented as text lines if the client doesn't
-support these line types.
-***
------------------------------------------
-Heading Lines
------------------------------------------
+## Advanced Line Types
+
+These are more advanced line types that, more than likely, will only be recognized in more advanced clients.
+
+These will be represented as text lines if the client doesn't support these line types.
+
+### Heading Lines
+
 #    - H1 - Heading 1 - Large text
 ##   - H2 - Heading 2 - Medium text
 ###  - H3 - Heading 3 - Small text
 
-------------------------------------------
-Unordered List Items
-------------------------------------------
+### Unordered List Items
 *    - An asterisk will create an unordered list
 
 
-####################################################################
-OTHER NOTES TO KEEP IN MIND
-####################################################################
-* Gemini can be used to serve plain text, rich text,
+## Notes
+
+* Gemini can be used to serve gmi, plain text, rich text,
 HTML, Markdown, LaTeX, etc.
 
 * Connections are closed after a single transaction.
