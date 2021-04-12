@@ -17,9 +17,19 @@ I am a ordinary middle school student who likes free software. Please follow the
 
 # Services
 
-## Internet Relay Chat
+## Internet Relay Chat (AndrewIRC)
+
 * irc.andrewyu.org 6697 with SSL
 * irc.andrewyu.org 6667 with plain text
+
+# Contact me
+
+You can get to me via the following ways.
+
+* Message Andrew on AndrewIRC
+* Message AndrewYu on freenode
+* Email andrew@andrewyu.org
+
 
 # About this capsule
 
