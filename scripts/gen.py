@@ -12,7 +12,7 @@ print(yay)
 
 with open("index.def.gmi", "r") as template:
     tplt = template.read()
-    wr = tplt.replace("[ POSTS ]", yay)
+    wr = tplt.replace("[ LIST ]", yay)
 
 with open("index.gmi", "w") as writer:
     writer.write(wr)

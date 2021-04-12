@@ -12,6 +12,7 @@ I am a ordinary middle school student who likes free software. Please follow the
 # Site pages
 
 => post Post list
+=> scripts Random scripts
 => https://andrewyu.org/bin/ File cache
 => https://lib.andrewyu.org:4097/ File library
 
