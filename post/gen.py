@@ -4,6 +4,7 @@ ls = os.listdir(".")
 ls.remove("gen.py")
 ls.remove("index.def.gmi")
 ls.remove("index.gmi")
+ls.sort()
 ls.reverse()
 links = []
 for f in ls:

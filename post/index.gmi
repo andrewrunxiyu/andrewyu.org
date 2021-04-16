@@ -1,5 +1,6 @@
 # Posts
 
+=> post_2021_04_16_Catalan_Independence.gmi Catalan Independence
 => post_2021_04_12_Busy_at_School.gmi Busy at School
 => post_2021_04_11_Switching_to_Gemini.gmi Switching to Gemini
 => post_2021_04_11_Gemini_Cheatsheet.gmi Gemini Cheatsheet
