@@ -21,8 +21,8 @@ I am Andrew Yu,  a ordinary middle school student who supports free (as in freed
 
 ## Internet Relay Chat (AndrewIRC)
 
-* irc.andrewyu.org 6697 with SSL
-* irc.andrewyu.org 6667 with plain text
+=> ircs://irc.andrewyu.org:6697 irc.andrewyu.org 6697 with SSL
+=> irc://irc.andrewyu.org:6667 irc.andrewyu.org 6667 with plain text
 
 # Contact me
 
@@ -37,6 +37,6 @@ You can get to me via the following ways.
 
 This is a Gemini capsule, a lightweight alternative to the modern web. I suggest viewing this on a Gemini client such as Amfora. However, using the HTTP portal is also viable.
 
-I will be accepting pull requests
+I will be accepting pull requests for good posts.
 
 => https://github.com/andrewrunxiyu/andrewyu.org Code of this capsule
