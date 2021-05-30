@@ -1,0 +1,12 @@
+# freenode
+
+If you're like me, using Internet Relay Chat on a day-to-day basis, you've probably heard of some drama going on, on the freenode network.
+
+The tl;dr is... ragansen, Andrew Lee (definitely not me who is Andrew Yu lol) and his holdings company Freenode Limited took over the network. 2/3's of the staff left for a new network, Libera.Chat.
+
+I am still retaining to be *on* freenode, but just for a while. Eventually I will be only on Libera.Chat and AndrewIRC.
+
+=> https://libera.chat Libera.Chat
+=> ircs://irc.andrewyu.org:6697 AndrewIRC
+
+I hope that the spirit of free software will retain, and I do not accept commercial dominance in such communities.

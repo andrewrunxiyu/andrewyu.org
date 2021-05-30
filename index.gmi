@@ -29,9 +29,18 @@ I am Andrew Yu,  a ordinary middle school student who supports free (as in freed
 You can get to me via the following ways.
 
 * Message Andrew on AndrewIRC
-* Message AndrewYu on freenode
+* Message AndrewYu on Libera.Chat
 * Email andrew@andrewyu.org
 
+# Donate
+
+If you like what I do, please donate XMRs to me!
+
+I have a Monero wallet at the address below.
+
+```
+85ggC27pR7Hfjbk6vbmaESPdGq6q3jD1BivEwpHYezQtV2zxiv3uSY3iEp35e7UyThYnVf5uduzWVSrpL8NPdPTxPig1VU5
+```
 
 # About this capsule
 
