@@ -1,5 +1,6 @@
 # Posts
 
+=> post_2021_07_10_A_Visit_to_the_WAIC.gmi A Visit to the WAIC
 => post_2021_05_30_freenode.gmi freenode
 => post_2021_04_24_Midterms.gmi Midterms
 => post_2021_04_16_Catalan_Independence.gmi Catalan Independence
