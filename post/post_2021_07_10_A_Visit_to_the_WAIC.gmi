@@ -1,0 +1,35 @@
+# A visit to the World Artificial Intelligence Conference
+
+It was July 8, 2021 when I visited the WAIC.  Originally I wasn't excited (at all), as I am not particularly interested with artificial intelligence.  I think that there are unsolved issues revolving around it, including but not limited to moral ones, i.e., who is responsible when a self-driving car crashes and kills people?
+
+This opinion hasn't changed because of this visit.  However, I do agree now that these exhibitions are not as boring as I thought of them to be.
+
+At the first few booths, I was *profoundly* sad---People there showed us some cool new technology, for example, algorithms that detect fake computer-synthesized faces in images and videos, some self-driving cars, etc. However, all of those mentioned above use proprietary software.
+
+I went to the Huawei booth next. There was a lot of city management software that I did not understand. I noticed a screen with a radar and a camera view that labels items it sees. However, the thing that really caught my attention was a shining orange-purple desktop background and a top bar that says "Activities". I have discovered a Ubuntu system---which gives at last *some more* freedom to users than those Windows systems--in this mostly proprietary exhibition!
+
+And then was some boring 科大讯飞 technology that is *supposed* to help doctors diagnose diseases, but from the various tests I tried on it I concluded that the technology was two naive and unusable. For example, when I *clearly* told it the symptoms of a Myocardial Infarction, it told me that I was wrong and the (hypothetical) patient has heart failure.
+
+Then comes the exciting part. I went to the booth of Baidu, a company that was "infamous" previously in my mind for developing all that proprietary software used all across China. However, I noticed a person talking about the Apache-2.0 license. I was quite confused. Later I found out that Baidu has a whole branch in its AI department dedicated to making free software libraries---PaddlePaddle. There are pre-trained models in it for animation-making, NLP, etc, anything I could image to have *something* to do with AI.
+
+Next we went to the General Electric booth. They have some cool stuff to assist physicians read cardiac CTs. The program takes a CT disc file descriptor as an input, turns it into some sort of 3D model. And then it uses its AI to label every tissue it recognizes, be it the coronary artery, the ventricles, or anything I could name. This makes it so easier, since physicians don't have to manually identify each artery in a CT. This is a very potentially life-saving technology. This is proprietary, of course, but I suspect it is not hard to implement with free software with some sort of deep learning.
+
+At last we visited a cardiac monitor manufacturer's booth. They had demo machines there that uses some sort of AI to read ECGs and produce smart alerts. Traditional cardiac monitors only implement heart rate limits, rarely there are a few that recognize VT and VF. The one I saw at the booth detects the following:
+
+- AF
+- AFL
+- PACs
+- PJCs
+- PVCs
+- VF
+- VFL
+- VT
+- SVT
+- Rhythms caused by SSS
+- etc
+
+The technology in each and every of those booths, as of the technologies themselves, are probably a big pro to society.
+
+I loved to see this new trend in China---The trend to free software, led by both individual developers and multi-billion companies. I know that most utilities today are *still* proprietary, however, I see the trend begging to differ.
+
+A society of free (free as in freedom) software has been what I, and many others around the globe (especially those at the [FSF](https://fsf.org), [GNU](https://gnu.org), etc) have been dreaming of for years. We are so far from what we are dreaming of, however, I am so glad that we see progress, made by those who originally seem to oppose our stance.
