@@ -16,17 +16,17 @@ Next we went to the General Electric booth. They have some cool stuff to assist 
 
 At last we visited a cardiac monitor manufacturer's booth. They had demo machines there that uses some sort of AI to read ECGs and produce smart alerts. Traditional cardiac monitors only implement heart rate limits, rarely there are a few that recognize VT and VF. The one I saw at the booth detects the following:
 
-- AF
-- AFL
-- PACs
-- PJCs
-- PVCs
-- VF
-- VFL
-- VT
-- SVT
-- Rhythms caused by SSS
-- etc
+* AF
+* AFL
+* PACs
+* PJCs
+* PVCs
+* VF
+* VFL
+* VT
+* SVT
+* Rhythms caused by SSS
+* etc
 
 The technology in each and every of those booths, as of the technologies themselves, are probably a big pro to society.
 
