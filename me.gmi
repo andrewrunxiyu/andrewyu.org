@@ -1,0 +1,23 @@
+# Me
+
+I am Andrew Yu, a thirteen-year-old student from Shanghai, China, studying in the Second School affiliated to Fudan University.
+
+As a supporter of free and open source software, I use GNU/Linux as my primary operating system. I love trying out new pieces of free software, giving suggestions and contributions.
+
+Because of school work, the time and effort I may spend on these interests. Therefore, most of my code contributions on GitHub are minor. However, I like helping people out by answering questions on Internet Relay Chat, for example.
+
+I love medical sciences as well. When I was around 9 years old, I started studying the basics of the human immune system and genetics. In seventh grade I started learning cardiology, including basic rhythm identification, the cardiac action potential, hemodynamics, etc. I was truly amazed at the complexity and magicalness of the human body.
+
+This summer, a friend and I started working on a project under the guidance of a group of university students who we know of. The project is primarily about discovering a new way to cure hepatoblastoma (a kind of liver cancer), which affects thousands of children in just China, targeting the circRNA responsible for causing a decrease in the corresponding miRNA. In order to keep this document in a reasonable length, I will explain the mechanism briefly.
+
+miRNA combines with any mRNA sequence that it partially matches. This prevents the mRNA from being translated into a polypeptide. It will not go about its way and turn into protein at last.
+
+When there's a high expression of the circRNA, it absorbs the surrounding miRNA like a sponge. This causes miRNA's inability to act how it should, which as is explained earlier, is causing the corresponding mRNA to not translate.
+
+Therefore, overall, when there's more the circRNA than necessary, there'll be an increased expression of the mRNA. If the mRNA we find is widely known to cause the cancer of interest, which is hepatoblastoma in our case, decreasing the levels of the circRNA is a likely way of regulating the tumor.
+
+The reason for my excitement with projects of this kind is not limited to my love for medical sciences, or technology in general. As I have learned debating (which provides me with critical thinking skills) and international relations in the past, I understand the state of medical care in some countries. The United States for example is an incredibly powerful and rich (referring to the average wealth of the people, not the government) country, but it has healthcare only the rich could afford.
+
+There are not so many countries with this issue, to be honest. However, even in countries like China, where the government helps the healthcare industry so much, some medications are still unaffordable. Crizotinib, a medication for lung cancer, caused our family around 1k USD a month, which would have used up our savings in a few months if the company behind it had not (finally) let us in to the experiment group. This is unacceptable to most families.
+
+I understand that what I am attempting to acomplish today is niche and far from clinical use. However, it calms me down when I can at least be a help to this problem.
